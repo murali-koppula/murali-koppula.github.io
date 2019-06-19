@@ -3,7 +3,7 @@
  I am an IT Professional with expertise in software engineering and development. My current focus and interest is in the areas of Blockchain and platform automation. I worked on major initiatives involving development, platform configuration, deployment automation, application and platform security, platform certifications, and proof of concept evaluations. <br><br>
 
 
-<i class="fa fa-chevron-right"></i> Skills
+# <i class="fa fa-chevron-right"></i> Skills
 
 
 <table class="table table-hover">
@@ -82,7 +82,7 @@ Java, Python, C, Solidity, Perl, Bash, awk
 </table>
 
 
-<i class="fa fa-chevron-right"></i> Experience
+# <i class="fa fa-chevron-right"></i> Experience
 
 
 <table class="table table-hover">
@@ -137,7 +137,7 @@ Java, Python, C, Solidity, Perl, Bash, awk
 </table>
 
 
-<i class="fa fa-chevron-right"></i> Coursework
+# <i class="fa fa-chevron-right"></i> Coursework
 
 
 + Blockchain Platforms,
@@ -166,7 +166,7 @@ Java, Python, C, Solidity, Perl, Bash, awk
   F2014
 
 
-<i class="fa fa-chevron-right"></i> Education
+# <i class="fa fa-chevron-right"></i> Education
 
 
 
