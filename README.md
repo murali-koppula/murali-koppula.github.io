@@ -1,1 +1,4 @@
-# murali-koppula.github.io
+
+My personal website.
+Unless stated otherwise, all content is MIT-licensed.
+
