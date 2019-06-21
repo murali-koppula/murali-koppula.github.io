@@ -117,53 +117,117 @@ Java, Python, C, Solidity, Perl, Bash, awk
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>1995 - Apr 2001</td>
+  <td class='col-md-3'>Sep 1995 - Apr 2001</td>
   <td><strong>CEI</strong>, Consulting role</td>
 </tr>
 <tr>
 </tr>
 <tr>
-  <td class='col-md-3'>1993 - Apr 1995</td>
-  <td><strong>Intergraph India Pvt.</strong>, Engineer</td>
+  <td class='col-md-3'>1994 - Apr 1995</td>
+  <td><strong>Intergraph (India).</strong>, Engineer</td>
 </tr>
 <tr>
 </tr>
 <tr>
   <td class='col-md-3'>1990 - Apr 1994</td>
-  <td><strong>CMC Limited.</strong>, Engineer</td>
+  <td><strong>CMC Corporation.</strong>, Engineer</td>
 </tr>
 <tr>
 </tr>
 </table>
 
 
+# <i class="fa fa-chevron-right"></i> Certifications
+
+
+
+<table class="table table-hover">
+  <tr>
+    <td class="col-md-9">
+
+      <a href="https://www.coursera.org/account/accomplishments/specialization/4ZGU758SQXP5" style="padding: 0.3em;">
+        Blockchain Specialization
+      </a>
+
+      <br>
+      
+    </td>
+    <td class="col-md-3">S2019</td>
+  </tr>
+</table>
+
+
 # <i class="fa fa-chevron-right"></i> Coursework
 
 
-+ Blockchain Platforms,
-    University at Buffalo, SUNY (Coursera),
-  2019
-+ Decentralized Applications,
-    University at Buffalo, SUNY (Coursera),
-  2019
-+ Smart Contracts,
-    University at Buffalo, SUNY (Coursera),
-  2019
-+ Blockchain Basics,
-    University at Buffalo, SUNY (Coursera),
-  2019
-+ Virtual Machines internals (JVM), CSCI E-98,
-    Harvard Extension School,
-  F2016
-+ Fundamentals of website development, CSCI E-12,
-    Harvard Extension School,
-  S2016
-+ Cloud Computing, CSCI E-90,
-    Harvard Extension School,
-  F2015
-+ Network Architecture and Protocol, CSCI E-40,
-    Harvard Extension School,
-  F2014
+
+<table class="table table-hover">
+
+  <tr>
+    <td class="col-md-9">
+      Blockchain Platforms,
+        University at Buffalo, SUNY (Coursera),
+      S2019
+    </td>
+    <td class="col-md-3">S2019</td>
+  </tr>
+  <tr>
+    <td class="col-md-9">
+      Decentralized Applications,
+        University at Buffalo, SUNY (Coursera),
+      S2019
+    </td>
+    <td class="col-md-3">S2019</td>
+  </tr>
+  <tr>
+    <td class="col-md-9">
+      Smart Contracts,
+        University at Buffalo, SUNY (Coursera),
+      S2019
+    </td>
+    <td class="col-md-3">S2019</td>
+  </tr>
+  <tr>
+    <td class="col-md-9">
+      Blockchain Basics,
+        University at Buffalo, SUNY (Coursera),
+      S2019
+    </td>
+    <td class="col-md-3">S2019</td>
+  </tr>
+  <tr>
+    <td class="col-md-9">
+      Virtual Machines internals (JVM), CSCI E-98,
+        Harvard Extension School,
+      F2016
+    </td>
+    <td class="col-md-3">F2016</td>
+  </tr>
+  <tr>
+    <td class="col-md-9">
+      Fundamentals of website development, CSCI E-12,
+        Harvard Extension School,
+      S2016
+    </td>
+    <td class="col-md-3">S2016</td>
+  </tr>
+  <tr>
+    <td class="col-md-9">
+      Cloud Computing, CSCI E-90,
+        Harvard Extension School,
+      F2015
+    </td>
+    <td class="col-md-3">F2015</td>
+  </tr>
+  <tr>
+    <td class="col-md-9">
+      Network Architecture and Protocol, CSCI E-40,
+        Harvard Extension School,
+      F2014
+    </td>
+    <td class="col-md-3">F2014</td>
+  </tr>
+</table>
 
 
 # <i class="fa fa-chevron-right"></i> Education
@@ -172,25 +236,25 @@ Java, Python, C, Solidity, Perl, Bash, awk
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Jun 1988 - Dec 1990</td>
     <td>
         <strong>M.Tech.</strong>
         <br>
-      Indian Institute of Technology
+      Indian Institute of Technology, Kharagpur
     </td>
+    <td class="col-md-3">Jun 1988 - Dec 1990</td>
   </tr>
   <tr>
-    <td class="col-md-3">Jun 1982 - May 1987</td>
     <td>
         <strong>B.Tech.</strong>
         <br>
       Jawaharlal Nehru Technological University
     </td>
+    <td class="col-md-3">Jun 1982 - May 1987</td>
   </tr>
   <tr>
-    <td class="col-md-3">Jun 1974 - May 1982</td>
     <td>
-      Sainik School
+      Sainik School, Korukonda
     </td>
+    <td class="col-md-3">Jun 1974 - May 1982</td>
   </tr>
 </table>
