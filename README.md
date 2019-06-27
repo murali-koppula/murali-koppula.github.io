@@ -1,4 +1,3 @@
 
-My personal website.
-Unless stated otherwise, all content is MIT-licensed.
+Content in this repository is MIT-licensed.
 
