@@ -85,55 +85,69 @@ Java, Python, C, Solidity, Perl, Bash, awk
 # <i class="fa fa-chevron-right"></i> Experience
 
 
+
 <table class="table table-hover">
-<tr>
-  <td class='col-md-3'>Jun 2011 - Sep 2018</td>
-  <td><strong>PNC Financial Services</strong>, Infrastructure Architect Sr.</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Sep 2010 - May 2011</td>
-  <td><strong>BNY Mellon</strong>, Distributed Architect / AVP</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Jan 2006 - Sep 2010</td>
-  <td><strong>PNC Financial Services</strong>, Software Engineer Lead</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Apr 2004 - Nov 2005</td>
-  <td><strong>SAIC</strong>, Senior Systems Engineer</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>2002 - Apr 2004</td>
-  <td><strong>BearingPoint Inc.</strong>, Consulting role</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>Sep 1995 - Apr 2001</td>
-  <td><strong>CEI</strong>, Consulting role</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>1994 - Apr 1995</td>
-  <td><strong>Intergraph (India).</strong>, Engineer</td>
-</tr>
-<tr>
-</tr>
-<tr>
-  <td class='col-md-3'>1990 - Apr 1994</td>
-  <td><strong>CMC Corporation.</strong>, Engineer</td>
-</tr>
-<tr>
-</tr>
+  <tr>
+    <td class='col-md-3'>
+      Jun 2011 - Sep 2018
+    </td>
+    <td><strong>PNC Financial Services</strong>, Infrastructure Architect Sr.</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>
+      Sep 2010 - May 2011
+    </td>
+    <td><strong>BNY Mellon</strong>, Distributed Architect / AVP</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>
+      Jan 2006 - Sep 2010
+    </td>
+    <td><strong>PNC Financial Services</strong>, Software Engineer Lead</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>
+      Apr 2004 - Nov 2005
+    </td>
+    <td><strong>SAIC</strong>, Senior Systems Engineer</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>
+      2002 - Apr 2004
+    </td>
+    <td><strong>BearingPoint Inc.</strong>, Consulting role</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>
+    </td>
+    <td><strong>CEI</strong>, Consulting role</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>
+    </td>
+    <td><strong>Intergraph (India).</strong>, Engineer</td>
+  </tr>
+  <tr>
+  </tr>
+  <tr>
+    <td class='col-md-3'>
+    </td>
+    <td><strong>CMC Corporation.</strong>, Engineer</td>
+  </tr>
+  <tr>
+  </tr>
 </table>
 
 
@@ -241,7 +255,6 @@ Java, Python, C, Solidity, Perl, Bash, awk
         <br>
       Indian Institute of Technology, Kharagpur
     </td>
-    <td class="col-md-3">Jun 1988 - Dec 1990</td>
   </tr>
   <tr>
     <td>
@@ -249,12 +262,10 @@ Java, Python, C, Solidity, Perl, Bash, awk
         <br>
       Jawaharlal Nehru Technological University
     </td>
-    <td class="col-md-3">Jun 1982 - May 1987</td>
   </tr>
   <tr>
     <td>
       Sainik School, Korukonda
     </td>
-    <td class="col-md-3">Jun 1974 - May 1982</td>
   </tr>
 </table>
