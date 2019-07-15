@@ -87,67 +87,65 @@ Java, Python, C, Solidity, Perl, Bash, awk
 
 
 <table class="table table-hover">
+
+
+    <tr>
+      <td class='col-md-3'>
+          Jun 2011 - Sep 2018
+      </td>
+      <td><strong>PNC Financial Services</strong>, Infrastructure Architect Sr.</td>
+    </tr>
+    <tr>
+      <td class='col-md-3'>
+          Sep 2010 - May 2011
+      </td>
+      <td><strong>BNY Mellon</strong>, Distributed Architect / AVP</td>
+    </tr>
+    <tr>
+      <td class='col-md-3'>
+          Jan 2006 - Sep 2010
+      </td>
+      <td><strong>PNC Financial Services</strong>, Software Engineer Lead</td>
+    </tr>
+    <tr>
+      <td class='col-md-3'>
+          Apr 2004 - Nov 2005
+      </td>
+      <td><strong>SAIC</strong>, Senior Systems Engineer</td>
+    </tr>
+    <tr>
+      <td class='col-md-3'>
+          2002 - Apr 2004
+      </td>
+      <td><strong>BearingPoint Inc.</strong>, Consulting role</td>
+    </tr>
+
+</table>
+
+<table class="table table-hover">
+
   <tr>
-    <td class='col-md-3'>
-      Jun 2011 - Sep 2018
+    <td class='col-md-12'>
+      <h2 id="-experience">Prior experience</h2>
     </td>
-    <td><strong>PNC Financial Services</strong>, Infrastructure Architect Sr.</td>
   </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class='col-md-3'>
-      Sep 2010 - May 2011
-    </td>
-    <td><strong>BNY Mellon</strong>, Distributed Architect / AVP</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class='col-md-3'>
-      Jan 2006 - Sep 2010
-    </td>
-    <td><strong>PNC Financial Services</strong>, Software Engineer Lead</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class='col-md-3'>
-      Apr 2004 - Nov 2005
-    </td>
-    <td><strong>SAIC</strong>, Senior Systems Engineer</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class='col-md-3'>
-      2002 - Apr 2004
-    </td>
-    <td><strong>BearingPoint Inc.</strong>, Consulting role</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class='col-md-3'>
-    </td>
-    <td><strong>CEI</strong>, Consulting role</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class='col-md-3'>
-    </td>
-    <td><strong>Intergraph (India).</strong>, Engineer</td>
-  </tr>
-  <tr>
-  </tr>
-  <tr>
-    <td class='col-md-3'>
-    </td>
-    <td><strong>CMC Corporation.</strong>, Engineer</td>
-  </tr>
-  <tr>
-  </tr>
+
+      <tr>
+        <td class='col-md-12'>
+            <strong>CEI</strong>, Consulting role
+        </td>
+      </tr>
+      <tr>
+        <td class='col-md-12'>
+            <strong>Intergraph (India).</strong>, Engineer
+        </td>
+      </tr>
+      <tr>
+        <td class='col-md-12'>
+            <strong>CMC Corporation.</strong>, Engineer
+        </td>
+      </tr>
+
 </table>
 
 
