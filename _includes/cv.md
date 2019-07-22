@@ -117,7 +117,7 @@ Java, Python, C, Solidity, Perl, Bash, awk
       <td class='col-md-3'>
           2002 - Apr 2004
       </td>
-      <td><strong>BearingPoint Inc.</strong>, Consulting role</td>
+      <td><strong>BearingPoint Inc.</strong>, Consultant</td>
     </tr>
 
 </table>
@@ -258,11 +258,13 @@ Java, Python, C, Solidity, Perl, Bash, awk
     <td>
         <strong>B.Tech.</strong>
         <br>
-      Jawaharlal Nehru Technological University
+      Jawaharlal Nehru Technological University, Kakinada
     </td>
   </tr>
   <tr>
     <td>
+        <strong>Middle, Junior, and High School</strong>
+        <br>
       Sainik School, Korukonda
     </td>
   </tr>
