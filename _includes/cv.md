@@ -22,7 +22,7 @@ Smart contracts, ReMix, MetaMask, Mist, Truffle
 <tr>
   <td class='col-md-2'>Enterprise Java Application Servers</td>
   <td markdown="1">
-WebSphere Liberty 18.x, WebSphere Traditional 9.x/8.x, WebLogic 11g, Tomcat, CQ
+WebSphere Liberty 18.x, WebSphere Traditional 9.x/8.x, WebLogic 11g, Tomcat
   </td>
 </tr>
 <tr>
