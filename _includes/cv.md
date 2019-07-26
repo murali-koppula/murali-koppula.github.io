@@ -93,7 +93,7 @@ Java, Python, C, Solidity, Perl, Bash, awk
       <td class='col-md-3'>
           Jun 2011 - Sep 2018
       </td>
-      <td><strong>PNC Financial Services</strong>, Infrastructure Architect Sr.</td>
+      <td><strong>PNC Financial Services</strong>, Infrastructure Engineering Architect Sr.</td>
     </tr>
     <tr>
       <td class='col-md-3'>
